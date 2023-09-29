@@ -86,5 +86,157 @@
     "context": "about -> part_3 -> ulifyi_start -> info_text",
     "labels": null,
     "max_length": null
+  },
+  "about.timeline.title": {
+    "identifier": "about.timeline.title",
+    "source_string": "JEDES ABENTEUER BEGINNT MIT DEN ERSTEN SCHRITTEN.",
+    "translation": "JEDES ABENTEUER BEGINNT MIT DEN ERSTEN SCHRITTEN.",
+    "context": "about -> timeline -> title",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.first.date": {
+    "identifier": "about.timeline.first.date",
+    "source_string": "22. April 2022",
+    "translation": "22. April 2022",
+    "context": "about -> timeline -> first -> date",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.first.event": {
+    "identifier": "about.timeline.first.event",
+    "source_string": "Gründung von Ulifyi",
+    "translation": "Gründung von Ulifyi",
+    "context": "about -> timeline -> first -> event",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.first.description": {
+    "identifier": "about.timeline.first.description",
+    "source_string": "Ulifyi wurde am 22. April 2022 von Justin Rossack und Norman Richter gegründet. Damals noch vorgesehen als Plattform, die es ermöglicht, seine Online-Presenz zu steigern und zu verwalten. Auch damals sollte Ulifyi eine Plattform werden die Business und Privatpersonen zusammenbringt und es ermöglicht jedem einfach Produkte zu präsentieren.",
+    "translation": "Ulifyi wurde am 22. April 2022 von Justin Rossack und Norman Richter gegründet. Damals noch vorgesehen als Plattform, die es ermöglicht, seine Online-Presenz zu steigern und zu verwalten. Auch damals sollte Ulifyi eine Plattform werden die Business und Privatpersonen zusammenbringt und es ermöglicht jedem einfach Produkte zu präsentieren.",
+    "context": "about -> timeline -> first -> description",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.second.date": {
+    "identifier": "about.timeline.second.date",
+    "source_string": "1. Januar 2023",
+    "translation": "1. Januar 2023",
+    "context": "about -> timeline -> second -> date",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.second.event": {
+    "identifier": "about.timeline.second.event",
+    "source_string": "Ulifyi V5",
+    "translation": "Ulifyi V5",
+    "context": "about -> timeline -> second -> event",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.second.description": {
+    "identifier": "about.timeline.second.description",
+    "source_string": "Nach einigen Plan änderungen und einer kompletten Neuentwicklung von Ulifyi, wurde die Version 5 am 1. Januar 2023 veröffentlicht. Diese hat das Konzept von Ulifyi nochmal erneuert und wurde mit einem komplett neuen Design ausgestattet.",
+    "translation": "Nach einigen Plan änderungen und einer kompletten Neuentwicklung von Ulifyi, wurde die Version 5 am 1. Januar 2023 veröffentlicht. Diese hat das Konzept von Ulifyi nochmal erneuert und wurde mit einem komplett neuen Design ausgestattet.",
+    "context": "about -> timeline -> second -> description",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.third.date": {
+    "identifier": "about.timeline.third.date",
+    "source_string": "März 2023",
+    "translation": "März 2023",
+    "context": "about -> timeline -> third -> date",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.third.event": {
+    "identifier": "about.timeline.third.event",
+    "source_string": "Eine andere Bestimmung",
+    "translation": "Eine andere Bestimmung",
+    "context": "about -> timeline -> third -> event",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.third.description": {
+    "identifier": "about.timeline.third.description",
+    "source_string": "Nach einigen Monaten der Entwicklung und der Veröffentlichung von Ulifyi V5, wurde das Konzept von Ulifyi nochmal komplett überarbeitet. Die Idee war es, eine Plattform zu entwickeln, die es ermöglicht, seine Erlebnisse mit anderen zu teilen. Die Nutzer sollen an Aufgaben teilhaben. So startete die Entwicklung von Ulifyi V6, es sollte jeder die Möglichkeit haben, seine Erlebnisse mit anderen zu teilen und sich mit anderen auszutauschen, egal ob nur mit Freunden oder mit der ganzen Welt.",
+    "translation": "Nach einigen Monaten der Entwicklung und der Veröffentlichung von Ulifyi V5, wurde das Konzept von Ulifyi nochmal komplett überarbeitet. Die Idee war es, eine Plattform zu entwickeln, die es ermöglicht, seine Erlebnisse mit anderen zu teilen. Die Nutzer sollen an Aufgaben teilhaben. So startete die Entwicklung von Ulifyi V6, es sollte jeder die Möglichkeit haben, seine Erlebnisse mit anderen zu teilen und sich mit anderen auszutauschen, egal ob nur mit Freunden oder mit der ganzen Welt.",
+    "context": "about -> timeline -> third -> description",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.fourth.date": {
+    "identifier": "about.timeline.fourth.date",
+    "source_string": "Jetzt",
+    "translation": "Jetzt",
+    "context": "about -> timeline -> fourth -> date",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.fourth.event": {
+    "identifier": "about.timeline.fourth.event",
+    "source_string": "Ulifyi V6",
+    "translation": "Ulifyi V6",
+    "context": "about -> timeline -> fourth -> event",
+    "labels": null,
+    "max_length": null
+  },
+  "about.timeline.fourth.description": {
+    "identifier": "about.timeline.fourth.description",
+    "source_string": "Wir arbeiten rund um die Uhr an unserem neuen Ulifyi-Konzept und freuen uns darauf, es in Kürze allen vorstellen zu können.",
+    "translation": "Wir arbeiten rund um die Uhr an unserem neuen Ulifyi-Konzept und freuen uns darauf, es in Kürze allen vorstellen zu können.",
+    "context": "about -> timeline -> fourth -> description",
+    "labels": null,
+    "max_length": null
+  },
+  "about.part_4.title": {
+    "identifier": "about.part_4.title",
+    "source_string": "INTERESSE GEWECKT?",
+    "translation": "INTERESSE GEWECKT?",
+    "context": "about -> part_4 -> title",
+    "labels": null,
+    "max_length": null
+  },
+  "about.part_4.info_text": {
+    "identifier": "about.part_4.info_text",
+    "source_string": "Wenn wir dein Interesse geweckt haben, kannst du dich bereits jetzt für die Beta anmelden. Wir werden dich dann benachrichtigen, sobald die Beta verfügbar ist. Die Beta wird voraussichtlich im Herbst 2023 verfügbar sein.³",
+    "translation": "Wenn wir dein Interesse geweckt haben, kannst du dich bereits jetzt für die Beta anmelden. Wir werden dich dann benachrichtigen, sobald die Beta verfügbar ist. Die Beta wird voraussichtlich im Herbst 2023 verfügbar sein.³",
+    "context": "about -> part_4 -> info_text",
+    "labels": null,
+    "max_length": null
+  },
+  "about.part_4.button_register": {
+    "identifier": "about.part_4.button_register",
+    "source_string": "In die Warteliste eintragen!",
+    "translation": "In die Warteliste eintragen!",
+    "context": "about -> part_4 -> button_register",
+    "labels": null,
+    "max_length": null
+  },
+  "about.disclaimer.hightpoints": {
+    "identifier": "about.disclaimer.hightpoints",
+    "source_string": "¹ HightPoints sind Punkte die du durch das erfüllen von Quests erhältst. Sind ersteinmal nix wert, und dienen dem Kosmetischen Zweck.",
+    "translation": "¹ HightPoints sind Punkte die du durch das erfüllen von Quests erhältst. Sind ersteinmal nix wert, und dienen dem Kosmetischen Zweck.",
+    "context": "about -> disclaimer -> hightpoints",
+    "labels": null,
+    "max_length": null
+  },
+  "about.disclaimer.countries": {
+    "identifier": "about.disclaimer.countries",
+    "source_string": "² Ulifyi wird vorest nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen.",
+    "translation": "² Ulifyi wird vorest nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen.",
+    "context": "about -> disclaimer -> countries",
+    "labels": null,
+    "max_length": null
+  },
+  "about.disclaimer.beta": {
+    "identifier": "about.disclaimer.beta",
+    "source_string": "³ Beta ist vorerst nur für Android verfügbar, zudem wird die Beta nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen.",
+    "translation": "³ Beta ist vorerst nur für Android verfügbar, zudem wird die Beta nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen.",
+    "context": "about -> disclaimer -> beta",
+    "labels": null,
+    "max_length": null
   }
 }
