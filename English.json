@@ -2,7 +2,7 @@
   "main.title": {
     "identifier": "main.title",
     "source_string": "Ulifyi ist eine Social-Media-Plattform, teile echte Erlebnisse und Abenteuer, lass dich inspirieren. Verbinde dich mit Menschen und schaffen gemeinsam Erinnerungen.",
-    "translation": "Ulifyi ist eine Social-Media-Plattform, teile echte Erlebnisse und Abenteuer, lass dich inspirieren. Verbinde dich mit Menschen und schaffen gemeinsam Erinnerungen.",
+    "translation": "ULIFYI IS A SOCIAL MEDIA PLATFORM. SHARE REAL EXPERIENCES AND ADVENTURES AND GET INSPIRED. CONNECT WITH PEOPLE AND CREATE MEMORIES TOGETHER.",
     "context": "main -> title",
     "labels": null,
     "max_length": null
@@ -10,7 +10,7 @@
   "main.buttons.register": {
     "identifier": "main.buttons.register",
     "source_string": "In die Warteliste eintragen!",
-    "translation": "In die Warteliste eintragen!",
+    "translation": "Join the Waitlist!",
     "context": "main -> buttons -> register",
     "labels": null,
     "max_length": null
@@ -18,7 +18,7 @@
   "main.buttons.more": {
     "identifier": "main.buttons.more",
     "source_string": "Lerne uns kennen!",
-    "translation": "Lerne uns kennen!",
+    "translation": "Get to Know Us!",
     "context": "main -> buttons -> more",
     "labels": null,
     "max_length": null
@@ -26,7 +26,7 @@
   "main.app_preregister": {
     "identifier": "main.app_preregister",
     "source_string": "oder auf dem Smartphone vorregistrieren",
-    "translation": "oder auf dem Smartphone vorregistrieren",
+    "translation": "or pre-register on your smartphone",
     "context": "main -> app_preregister",
     "labels": null,
     "max_length": null
@@ -42,7 +42,7 @@
   "about.part_1.undertitle_1": {
     "identifier": "about.part_1.undertitle_1",
     "source_string": "Hier kannst du deine Erlebnisse mit anderen teilen, oder einfach nur die Erlebnisse anderer genießen. Egal ob du deine Abenteuer mit deinen Freunden teilen möchtest, oder es der Welt zeigen willst.",
-    "translation": "Hier kannst du deine Erlebnisse mit anderen teilen, oder einfach nur die Erlebnisse anderer genießen. Egal ob du deine Abenteuer mit deinen Freunden teilen möchtest, oder es der Welt zeigen willst.",
+    "translation": "Here you can share your experiences with others or simply enjoy the experiences of others. Whether you want to share your adventures with friends or show them to the world.",
     "context": "about -> part_1 -> undertitle_1",
     "labels": null,
     "max_length": null
@@ -50,7 +50,7 @@
   "about.part_1.bold_underline": {
     "identifier": "about.part_1.bold_underline",
     "source_string": "ULIFYI IST FÜR JEDEN WAS!",
-    "translation": "ULIFYI IST FÜR JEDEN WAS!",
+    "translation": "ULIFYI IS FOR EVERYONE!",
     "context": "about -> part_1 -> bold_underline",
     "labels": null,
     "max_length": null
@@ -58,7 +58,7 @@
   "about.part_2.title": {
     "identifier": "about.part_2.title",
     "source_string": "ABER WAS IST ULIFYI ÜBERHAUPT?",
-    "translation": "ABER WAS IST ULIFYI ÜBERHAUPT?",
+    "translation": "BUT WHAT IS ULIFYI ANYWAY?",
     "context": "about -> part_2 -> title",
     "labels": null,
     "max_length": null
@@ -66,7 +66,7 @@
   "about.part_2.what_is_ulifyi": {
     "identifier": "about.part_2.what_is_ulifyi",
     "source_string": "Was ist Ulifyi?",
-    "translation": "Was ist Ulifyi?",
+    "translation": "What is Ulifyi?",
     "context": "about -> part_2 -> what_is_ulifyi",
     "labels": null,
     "max_length": null
@@ -74,7 +74,7 @@
   "about.part_2.info_text": {
     "identifier": "about.part_2.info_text",
     "source_string": "Ulifyi ist eine Social Media Plattform, die darauf ausgelegt ist, Erlebnisse mit anderen zu teilen. Ob nur unter Freunden oder der ganzen Welt. Mit Ulifyi und den Quests kannst du allen zeigen, was du erlebt hast. Ulifyi bietet dir viele Möglichkeiten, deinen Freunden oder der ganzen Welt zu zeigen, was du erlebt hast, egal ob es ein einfacher Post ist oder eine Quest an der du teilgenommen hast, mit Ulifyi ist alles möglich.",
-    "translation": "Ulifyi ist eine Social Media Plattform, die darauf ausgelegt ist, Erlebnisse mit anderen zu teilen. Ob nur unter Freunden oder der ganzen Welt. Mit Ulifyi und den Quests kannst du allen zeigen, was du erlebt hast. Ulifyi bietet dir viele Möglichkeiten, deinen Freunden oder der ganzen Welt zu zeigen, was du erlebt hast, egal ob es ein einfacher Post ist oder eine Quest an der du teilgenommen hast, mit Ulifyi ist alles möglich.",
+    "translation": "Ulifyi is a social media platform designed to share experiences with others, whether just with friends or the world. With Ulifyi and the Quests, you can show your friends or the world what you've experienced. Ulifyi offers you many ways to show your friends or the world what you've experienced, whether it's a simple post or a quest you've participated in; with Ulifyi, anything is possible.",
     "context": "about -> part_2 -> info_text",
     "labels": null,
     "max_length": null
@@ -82,7 +82,7 @@
   "about.part_3.title": {
     "identifier": "about.part_3.title",
     "source_string": "WEITERE FRAGEN?",
-    "translation": "WEITERE FRAGEN?",
+    "translation": "MORE QUESTIONS?",
     "context": "about -> part_3 -> title",
     "labels": null,
     "max_length": null
@@ -90,7 +90,7 @@
   "about.part_3.quest.title": {
     "identifier": "about.part_3.quest.title",
     "source_string": "Was ist eine Quest?",
-    "translation": "Was ist eine Quest?",
+    "translation": "What is a Quest?",
     "context": "about -> part_3 -> quest -> title",
     "labels": null,
     "max_length": null
@@ -98,7 +98,7 @@
   "about.part_3.quest.info_text": {
     "identifier": "about.part_3.quest.info_text",
     "source_string": "Unser Konzept von Quests, an dem wie bereits seit Anfang 2023 arbeiten, wird folgendermaßen funktionieren. Ulifyi stellt euch jede Woche erst einmal 3 Quests zur Verfügung, an denen ihr teilnehmen könnt. Diese Quests können von euch erfüllt werden, indem ihr ein Bild oder ein Video hochladet, welches die Quest erfüllt. Die Quests werden von uns ausgewählt und können von euch nicht selbst erstellt werden. Die Quests werden jede Woche erneuert und ihr könnt jede Woche neue Quests erfüllen. Ein Quest-Gewinner wird durch die Anzahl der Likes ermittelt, die das Bild oder Video erhält. Der Gewinner erhält einen Preis, meistens sind dies unsere HightPoints¹.",
-    "translation": "Unser Konzept von Quests, an dem wie bereits seit Anfang 2023 arbeiten, wird folgendermaßen funktionieren. Ulifyi stellt euch jede Woche erst einmal 3 Quests zur Verfügung, an denen ihr teilnehmen könnt. Diese Quests können von euch erfüllt werden, indem ihr ein Bild oder ein Video hochladet, welches die Quest erfüllt. Die Quests werden von uns ausgewählt und können von euch nicht selbst erstellt werden. Die Quests werden jede Woche erneuert und ihr könnt jede Woche neue Quests erfüllen. Ein Quest-Gewinner wird durch die Anzahl der Likes ermittelt, die das Bild oder Video erhält. Der Gewinner erhält einen Preis, meistens sind dies unsere HightPoints¹.",
+    "translation": "Our concept of Quests, which we have been working on since early 2023, works as follows: Ulifyi provides you with 3 quests each week that you can participate in. These quests can be completed by uploading a picture or a video that fulfills the quest. The quests are selected by us and cannot be created by you. The quests are renewed every week, and you can complete new quests every week. A quest winner is determined by the number of likes the picture or video receives. The winner receives a prize, usually our HightPoints¹.",
     "context": "about -> part_3 -> quest -> info_text",
     "labels": null,
     "max_length": null
@@ -106,7 +106,7 @@
   "about.part_3.ulifyi_start.title": {
     "identifier": "about.part_3.ulifyi_start.title",
     "source_string": "Wann startet Ulifyi?",
-    "translation": "Wann startet Ulifyi?",
+    "translation": "When Does Ulifyi Start?",
     "context": "about -> part_3 -> ulifyi_start -> title",
     "labels": null,
     "max_length": null
@@ -114,7 +114,7 @@
   "about.part_3.ulifyi_start.info_text": {
     "identifier": "about.part_3.ulifyi_start.info_text",
     "source_string": "Wir erwarten Ulifyi bereits im Winter oder Herbst 2023. Ulifyi wird vorerst nur in ausgewählten Ländern verfügbar sein².",
-    "translation": "Wir erwarten Ulifyi bereits im Winter oder Herbst 2023. Ulifyi wird vorerst nur in ausgewählten Ländern verfügbar sein².",
+    "translation": "We expect Ulifyi to be available in winter or fall 2023. Ulifyi will initially be available in selected countries².",
     "context": "about -> part_3 -> ulifyi_start -> info_text",
     "labels": null,
     "max_length": null
@@ -122,7 +122,7 @@
   "about.timeline.title": {
     "identifier": "about.timeline.title",
     "source_string": "JEDES ABENTEUER BEGINNT MIT DEN ERSTEN SCHRITTEN.",
-    "translation": "JEDES ABENTEUER BEGINNT MIT DEN ERSTEN SCHRITTEN.",
+    "translation": "EVERY ADVENTURE BEGINS WITH THE FIRST STEPS.",
     "context": "about -> timeline -> title",
     "labels": null,
     "max_length": null
@@ -130,7 +130,7 @@
   "about.timeline.first.date": {
     "identifier": "about.timeline.first.date",
     "source_string": "22. April 2022",
-    "translation": "22. April 2022",
+    "translation": "April 22nd, 2022",
     "context": "about -> timeline -> first -> date",
     "labels": null,
     "max_length": null
@@ -138,7 +138,7 @@
   "about.timeline.first.event": {
     "identifier": "about.timeline.first.event",
     "source_string": "Gründung von Ulifyi",
-    "translation": "Gründung von Ulifyi",
+    "translation": "Founding of Ulifyi",
     "context": "about -> timeline -> first -> event",
     "labels": null,
     "max_length": null
@@ -146,7 +146,7 @@
   "about.timeline.first.description": {
     "identifier": "about.timeline.first.description",
     "source_string": "Ulifyi wurde am 22. April 2022 von Justin Rossack und Norman Richter gegründet. Damals noch vorgesehen als Plattform, die es ermöglicht, seine Online-Präsenz zu steigern und zu verwalten. Auch damals sollte Ulifyi eine Plattform werden, die Business und Privatpersonen zusammenbringt und es ermöglicht jedem, einfach Produkte zu präsentieren.",
-    "translation": "Ulifyi wurde am 22. April 2022 von Justin Rossack und Norman Richter gegründet. Damals noch vorgesehen als Plattform, die es ermöglicht, seine Online-Präsenz zu steigern und zu verwalten. Auch damals sollte Ulifyi eine Plattform werden, die Business und Privatpersonen zusammenbringt und es ermöglicht jedem, einfach Produkte zu präsentieren.",
+    "translation": "Ulifyi was founded on April 22, 2022, by Justin Rossack and Norman Richter. Originally intended as a platform that allows you to boost and manage your online presence. Even back then, Ulifyi was supposed to be a platform that brings together businesses and individuals, making it easy for everyone to showcase products.",
     "context": "about -> timeline -> first -> description",
     "labels": null,
     "max_length": null
@@ -154,7 +154,7 @@
   "about.timeline.second.date": {
     "identifier": "about.timeline.second.date",
     "source_string": "1. Januar 2023",
-    "translation": "1. Januar 2023",
+    "translation": "January 1, 2023",
     "context": "about -> timeline -> second -> date",
     "labels": null,
     "max_length": null
@@ -170,7 +170,7 @@
   "about.timeline.second.description": {
     "identifier": "about.timeline.second.description",
     "source_string": "Nach einigen Planänderungen und einer kompletten Neuentwicklung von Ulifyi wurde die Version 5 am 1. Januar 2023 veröffentlicht. Diese hat das Konzept von Ulifyi nochmal erneuert und wurde mit einem komplett neuen Design ausgestattet.",
-    "translation": "Nach einigen Planänderungen und einer kompletten Neuentwicklung von Ulifyi wurde die Version 5 am 1. Januar 2023 veröffentlicht. Diese hat das Konzept von Ulifyi nochmal erneuert und wurde mit einem komplett neuen Design ausgestattet.",
+    "translation": "After some changes in plans and a complete redevelopment of Ulifyi, version 5 was released on January 1, 2023. This version renewed the concept of Ulifyi and was equipped with an entirely new design.",
     "context": "about -> timeline -> second -> description",
     "labels": null,
     "max_length": null
@@ -178,7 +178,7 @@
   "about.timeline.third.date": {
     "identifier": "about.timeline.third.date",
     "source_string": "März 2023",
-    "translation": "März 2023",
+    "translation": "March 2023",
     "context": "about -> timeline -> third -> date",
     "labels": null,
     "max_length": null
@@ -186,7 +186,7 @@
   "about.timeline.third.event": {
     "identifier": "about.timeline.third.event",
     "source_string": "Eine andere Bestimmung",
-    "translation": "Eine andere Bestimmung",
+    "translation": "A Different Destiny",
     "context": "about -> timeline -> third -> event",
     "labels": null,
     "max_length": null
@@ -194,7 +194,7 @@
   "about.timeline.third.description": {
     "identifier": "about.timeline.third.description",
     "source_string": "Nach einigen Monaten der Entwicklung und der Veröffentlichung von Ulifyi V5 wurde das Konzept von Ulifyi nochmal komplett überarbeitet. Die Idee war es, eine Plattform zu entwickeln, die es ermöglicht, seine Erlebnisse mit anderen zu teilen. Die Nutzer sollen an Aufgaben teilhaben. So startete die Entwicklung von Ulifyi V6, es sollte jeder die Möglichkeit haben, seine Erlebnisse mit anderen zu teilen und sich mit anderen auszutauschen, egal ob nur mit Freunden oder mit der ganzen Welt.",
-    "translation": "Nach einigen Monaten der Entwicklung und der Veröffentlichung von Ulifyi V5 wurde das Konzept von Ulifyi nochmal komplett überarbeitet. Die Idee war es, eine Plattform zu entwickeln, die es ermöglicht, seine Erlebnisse mit anderen zu teilen. Die Nutzer sollen an Aufgaben teilhaben. So startete die Entwicklung von Ulifyi V6, es sollte jeder die Möglichkeit haben, seine Erlebnisse mit anderen zu teilen und sich mit anderen auszutauschen, egal ob nur mit Freunden oder mit der ganzen Welt.",
+    "translation": "After several months of development and the release of Ulifyi V5, the concept of Ulifyi was completely revised again. The idea was to develop a platform that allows you to share your experiences with others. Users should participate in tasks. Thus, the development of Ulifyi V6 started, where everyone should have the opportunity to share their experiences with others and connect with others, whether just with friends or with the whole world.",
     "context": "about -> timeline -> third -> description",
     "labels": null,
     "max_length": null
@@ -202,7 +202,7 @@
   "about.timeline.fourth.date": {
     "identifier": "about.timeline.fourth.date",
     "source_string": "Jetzt",
-    "translation": "Jetzt",
+    "translation": "Now",
     "context": "about -> timeline -> fourth -> date",
     "labels": null,
     "max_length": null
@@ -218,7 +218,7 @@
   "about.timeline.fourth.description": {
     "identifier": "about.timeline.fourth.description",
     "source_string": "Wir arbeiten rund um die Uhr an unserem neuen Ulifyi-Konzept und freuen uns darauf, es in Kürze allen vorstellen zu können.",
-    "translation": "Wir arbeiten rund um die Uhr an unserem neuen Ulifyi-Konzept und freuen uns darauf, es in Kürze allen vorstellen zu können.",
+    "translation": "We are working around the clock on our new Ulifyi concept and are looking forward to presenting it to everyone very soon.",
     "context": "about -> timeline -> fourth -> description",
     "labels": null,
     "max_length": null
@@ -226,7 +226,7 @@
   "about.part_4.title": {
     "identifier": "about.part_4.title",
     "source_string": "INTERESSE GEWECKT?",
-    "translation": "INTERESSE GEWECKT?",
+    "translation": "INTERESTED?",
     "context": "about -> part_4 -> title",
     "labels": null,
     "max_length": null
@@ -234,7 +234,7 @@
   "about.part_4.info_text": {
     "identifier": "about.part_4.info_text",
     "source_string": "Wenn wir dein Interesse geweckt haben, kannst du dich bereits jetzt für die Beta anmelden. Wir werden dich dann benachrichtigen, sobald die Beta verfügbar ist. Die Beta wird voraussichtlich im Herbst 2023 verfügbar sein.³",
-    "translation": "Wenn wir dein Interesse geweckt haben, kannst du dich bereits jetzt für die Beta anmelden. Wir werden dich dann benachrichtigen, sobald die Beta verfügbar ist. Die Beta wird voraussichtlich im Herbst 2023 verfügbar sein.³",
+    "translation": "If we have piqued your interest, you can already sign up for the beta. We will notify you as soon as the beta is available. The beta is expected to be available in the fall of 2023.³",
     "context": "about -> part_4 -> info_text",
     "labels": null,
     "max_length": null
@@ -242,7 +242,7 @@
   "about.part_4.button_register": {
     "identifier": "about.part_4.button_register",
     "source_string": "In die Warteliste eintragen!",
-    "translation": "In die Warteliste eintragen!",
+    "translation": "Join the Waitlist!",
     "context": "about -> part_4 -> button_register",
     "labels": null,
     "max_length": null
@@ -250,7 +250,7 @@
   "about.disclaimer.hightpoints": {
     "identifier": "about.disclaimer.hightpoints",
     "source_string": "¹ HightPoints sind Punkte, die du durch das Erfüllen von Quests erhältst. Sie sind erst einmal nichts wert und dienen dem kosmetischen Zweck.",
-    "translation": "¹ HightPoints sind Punkte, die du durch das Erfüllen von Quests erhältst. Sie sind erst einmal nichts wert und dienen dem kosmetischen Zweck.",
+    "translation": "¹ HightPoints are points you receive by completing quests. They are currently not worth anything and serve a cosmetic purpose.",
     "context": "about -> disclaimer -> hightpoints",
     "labels": null,
     "max_length": null
@@ -258,7 +258,7 @@
   "about.disclaimer.countries": {
     "identifier": "about.disclaimer.countries",
     "source_string": "² Ulifyi wird vorerst nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen.",
-    "translation": "² Ulifyi wird vorerst nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen.",
+    "translation": "² Ulifyi will initially be available in selected countries, including Germany, Switzerland, Austria, and France. More countries will follow.",
     "context": "about -> disclaimer -> countries",
     "labels": null,
     "max_length": null
@@ -266,7 +266,7 @@
   "about.disclaimer.beta": {
     "identifier": "about.disclaimer.beta",
     "source_string": "³ Die Beta ist vorerst nur für Android verfügbar, zudem wird die Beta nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen.",
-    "translation": "³ Die Beta ist vorerst nur für Android verfügbar, zudem wird die Beta nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen.",
+    "translation": "³ Beta will initially be available for Android only, and the beta will be available in selected countries, including Germany, Switzerland, Austria, and France. More countries will follow.",
     "context": "about -> disclaimer -> beta",
     "labels": null,
     "max_length": null
@@ -274,7 +274,7 @@
   "press.part_1.title": {
     "identifier": "press.part_1.title",
     "source_string": "VON DER PRESSE? HIER FINDEST DU ALLES, WAS DU BRAUCHST.",
-    "translation": "VON DER PRESSE? HIER FINDEST DU ALLES, WAS DU BRAUCHST.",
+    "translation": "FROM THE PRESS? HERE'S EVERYTHING YOU NEED.",
     "context": "press -> part_1 -> title",
     "labels": null,
     "max_length": null
@@ -290,7 +290,7 @@
   "press.part_1.contact": {
     "identifier": "press.part_1.contact",
     "source_string": "Kontakt",
-    "translation": "Kontakt",
+    "translation": "Contact",
     "context": "press -> part_1 -> contact",
     "labels": null,
     "max_length": null
@@ -298,7 +298,7 @@
   "press.part_1.buttons.blog": {
     "identifier": "press.part_1.buttons.blog",
     "source_string": "Zum Blog",
-    "translation": "Zum Blog",
+    "translation": "Go to the Blog",
     "context": "press -> part_1 -> buttons -> blog",
     "labels": null,
     "max_length": null
@@ -306,7 +306,7 @@
   "press.part_1.buttons.contact": {
     "identifier": "press.part_1.buttons.contact",
     "source_string": "Kontaktiere uns",
-    "translation": "Kontaktiere uns",
+    "translation": "Contact Us",
     "context": "press -> part_1 -> buttons -> contact",
     "labels": null,
     "max_length": null
@@ -314,7 +314,7 @@
   "press.part_2.title": {
     "identifier": "press.part_2.title",
     "source_string": "FARBEN SIND EIN WICHTIGER BESTANDTEIL VON ULIFYI.",
-    "translation": "FARBEN SIND EIN WICHTIGER BESTANDTEIL VON ULIFYI.",
+    "translation": "COLORS ARE AN IMPORTANT PART OF ULIFYI.",
     "context": "press -> part_2 -> title",
     "labels": null,
     "max_length": null
@@ -322,7 +322,7 @@
   "press.part_3.title": {
     "identifier": "press.part_3.title",
     "source_string": "EIN RICHTIGES BRANDING BRAUCHT DAS PERFEKTE LOGO, HIER IST UNSERES.",
-    "translation": "EIN RICHTIGES BRANDING BRAUCHT DAS PERFEKTE LOGO, HIER IST UNSERES.",
+    "translation": "A PROPER BRANDING NEEDS THE PERFECT LOGO, HERE'S OURS.",
     "context": "press -> part_3 -> title",
     "labels": null,
     "max_length": null
@@ -330,7 +330,7 @@
   "press.part_3.buttons.download_logo_pack": {
     "identifier": "press.part_3.buttons.download_logo_pack",
     "source_string": "Logo Pack Herunterladen¹",
-    "translation": "Logo Pack Herunterladen¹",
+    "translation": "Download Logo Pack¹",
     "context": "press -> part_3 -> buttons -> download_logo_pack",
     "labels": null,
     "max_length": null
@@ -338,7 +338,7 @@
   "press.part_3.disclaimer_text": {
     "identifier": "press.part_3.disclaimer_text",
     "source_string": "¹ Alle Rechte vorbehalten. Ulifyi Logos dürfen nicht verändert, bearbeitet oder umgefärbt werden.",
-    "translation": "¹ Alle Rechte vorbehalten. Ulifyi Logos dürfen nicht verändert, bearbeitet oder umgefärbt werden.",
+    "translation": "¹All rights reserved. Ulifyi logos may not be altered, edited, or recolored.",
     "context": "press -> part_3 -> disclaimer_text",
     "labels": null,
     "max_length": null
@@ -346,7 +346,7 @@
   "press.part_4.title": {
     "identifier": "press.part_4.title",
     "source_string": "DIESE MENSCHEN HABEN ULIFYI ERST ZU ULIFYI GEMACHT.",
-    "translation": "DIESE MENSCHEN HABEN ULIFYI ERST ZU ULIFYI GEMACHT.",
+    "translation": "THESE PEOPLE MADE ULIFYI INTO ULIFYI.",
     "context": "press -> part_4 -> title",
     "labels": null,
     "max_length": null
@@ -354,7 +354,7 @@
   "press.part_4.info_text_justin": {
     "identifier": "press.part_4.info_text_justin",
     "source_string": "CTO & Gründer",
-    "translation": "CTO & Gründer",
+    "translation": "CTO & Founder",
     "context": "press -> part_4 -> info_text_justin",
     "labels": null,
     "max_length": null
@@ -362,7 +362,7 @@
   "press.part_4.info_text_norman": {
     "identifier": "press.part_4.info_text_norman",
     "source_string": "CEO & Gründer",
-    "translation": "CEO & Gründer",
+    "translation": "CEO & Founder",
     "context": "press -> part_4 -> info_text_norman",
     "labels": null,
     "max_length": null
@@ -370,7 +370,7 @@
   "press.part_4.buttons.more_about_justin": {
     "identifier": "press.part_4.buttons.more_about_justin",
     "source_string": "Mehr über Justin",
-    "translation": "Mehr über Justin",
+    "translation": "More About Justin",
     "context": "press -> part_4 -> buttons -> more_about_justin",
     "labels": null,
     "max_length": null
@@ -378,7 +378,7 @@
   "press.part_4.buttons.more_about_norman": {
     "identifier": "press.part_4.buttons.more_about_norman",
     "source_string": "Mehr über Norman",
-    "translation": "Mehr über Norman",
+    "translation": "More About Norman",
     "context": "press -> part_4 -> buttons -> more_about_norman",
     "labels": null,
     "max_length": null
@@ -386,7 +386,7 @@
   "press.part_5.title": {
     "identifier": "press.part_5.title",
     "source_string": "NOCH NICHT GENUG?",
-    "translation": "NOCH NICHT GENUG?",
+    "translation": "NOT ENOUGH YET?",
     "context": "press -> part_5 -> title",
     "labels": null,
     "max_length": null
@@ -394,7 +394,7 @@
   "press.part_5.buttons.more_about_ulifyi": {
     "identifier": "press.part_5.buttons.more_about_ulifyi",
     "source_string": "Mehr über Ulifyi erfahren.",
-    "translation": "Learn more about Ulifyi.",
+    "translation": "Learn More About Ulifyi.",
     "context": "press -> part_5 -> buttons -> more_about_ulifyi",
     "labels": null,
     "max_length": null
