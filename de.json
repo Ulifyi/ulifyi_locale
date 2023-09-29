@@ -1,1 +1,58 @@
-
+{
+    "about": {
+        "part_1": {
+            "title": "EIN ORT MIT ECHTEN ERLEBNISSEN, ABENTEUERN UND ERINNERUNGEN.",
+            "undertitle_1": "Hier kannst du deine Erlebnisse mit anderen teilen, oder einfach nur die Erlebnisse anderer genießen. Egal ob du deine Abenteuer mit deinen Freunden teilen möchtest, oder es der Welt zeigen willst.",
+            "bold_underline": "Ulifyi ist für jeden was!"
+        },
+        "part_2": {
+            "title": "ABER WAS IST ULIFYI ÜBERHAUPT?",
+            "what_is_ulifyi": "Was ist Ulifyi?",
+            "info_text": "Ulifyi ist eine Social Media Plattform, die darauf ausgelegt ist, Erlebnisse mit anderen zu teilen, ob nur unter Freunden oder der ganzen Welt. Mit Ulifyi und den Quests kannst du deinen Freunden oder der ganzen Welt zeigen, was du erlebt hast. Ulifyi bietet dir viele Möglichkeiten, deinen Freunden oder der ganzen Welt zu zeigen, was du erlebt hast, egal ob es ein einfacher Post ist oder eine Quest an der du teilgenommen hast, mit Ulifyi ist alles möglich."
+        },
+        "part_3": {
+            "title": "WEITERE FRAGEN?",
+            "quest": {
+                "title": "Was ist eine Quest?",
+                "info_text": "Unser Konzept von Quests an dem wie bereits seit Anfang 2023 arbeiten wird folgendermaßen funktionieren. Ulifyi stellt euch jede Woche ersteinmal 3 Quests zur Verfügung, an denen ihr teilnehmen könnt. Diese Quests können von euch erfüllt werden, indem ihr ein Bild oder ein Video hochladet, welches die Quest erfüllt. Die Quests werden von uns ausgewählt und können von euch nicht selbst erstellt werden. Die Quests werden jede Woche erneuert und ihr könnt jede Woche neue Quests erfüllen. Ein Quest gewinner wird durch die Anzahl der Likes ermittelt, die das Bild oder Video erhält. Der Gewinner erhält einen Preis, meistens sind dies unsere HightPoints¹."
+            },
+            "ulifyi_start": {
+                "title": "Wann startet Ulifyi?",
+                "info_text": "Wir erwarten Ulifyi bereits im Winder oder Herbst 2023. Ulifyi wird vorest nur in ausgewählten Ländern verfügbar sein²."
+            }
+        },
+        "timeline": {
+            "title": "JEDES ABENTEUER BEGINNT MIT DEN ERSTEN SCHRITTEN.",
+            "first": {
+                "date": "22. April 2022",
+                "event": "Gründung von Ulifyi",
+                "description": "Ulifyi wurde am 22. April 2022 von Justin Rossack und Norman Richter gegründet. Damals noch vorgesehen als Plattform, die es ermöglicht, seine Online-Presenz zu steigern und zu verwalten. Auch damals sollte Ulifyi eine Plattform werden die Business und Privatpersonen zusammenbringt und es ermöglicht jedem einfach Produkte zu präsentieren."
+            },
+            "second": {
+                "date": "1. Januar 2023",
+                "event": "Ulifyi V5",
+                "description": "Nach einigen Plan änderungen und einer kompletten Neuentwicklung von Ulifyi, wurde die Version 5 am 1. Januar 2023 veröffentlicht. Diese hat das Konzept von Ulifyi nochmal erneuert und wurde mit einem komplett neuen Design ausgestattet."
+            },
+            "third": {
+                "date": "März 2023",
+                "event": "Eine andere Bestimmung",
+                "description": "Nach einigen Monaten der Entwicklung und der Veröffentlichung von Ulifyi V5, wurde das Konzept von Ulifyi nochmal komplett überarbeitet. Die Idee war es, eine Plattform zu entwickeln, die es ermöglicht, seine Erlebnisse mit anderen zu teilen. Die Nutzer sollen an Aufgaben teilhaben. So startete die Entwicklung von Ulifyi V6, es sollte jeder die Möglichkeit haben, seine Erlebnisse mit anderen zu teilen und sich mit anderen auszutauschen, egal ob nur mit Freunden oder mit der ganzen Welt."
+            },
+            "fourth": {
+                "date": "Jetzt",
+                "event": "Ulifyi V6",
+                "description": "Wir arbeiten rund um die Uhr an unserem neuen Ulifyi-Konzept und freuen uns darauf, es in Kürze allen vorstellen zu können."
+            }
+        },
+        "part_4": {
+            "title": "INTERESSE GEWECKT?",
+            "info_text": "Wenn wir dein Interesse geweckt haben, kannst du dich bereits jetzt für die Beta anmelden. Wir werden dich dann benachrichtigen, sobald die Beta verfügbar ist. Die Beta wird voraussichtlich im Herbst 2023 verfügbar sein.³",
+            "button_register": "In die Warteliste eintragen!"
+        },
+        "disclaimer": {
+            "hightpoints": "¹ HightPoints sind Punkte die du durch das erfüllen von Quests erhältst. Sind ersteinmal nix wert, und dienen dem Kosmetischen Zweck.",
+            "countries": "² Ulifyi wird vorest nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen.",
+            "beta": "³ Beta ist vorerst nur für Android verfügbar, zudem wird die Beta nur in ausgewählten Ländern verfügbar sein. Darunter sind Deutschland, Schweiz, Österreich und Frankreich. Weitere Länder werden folgen."
+        }
+    }
+}
