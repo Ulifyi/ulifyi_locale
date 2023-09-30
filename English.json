@@ -34,7 +34,7 @@
   "about.part_1.title": {
     "identifier": "about.part_1.title",
     "source_string": "EIN ORT MIT ECHTEN ERLEBNISSEN, ABENTEUERN UND ERINNERUNGEN.",
-    "translation": "A PLACE WITH REAL EXPERIENCES, ADVENTURES AND MEMORIES.",
+    "translation": "A PLACE FOR REAL EXPERIENCES, ADVENTURES, AND MEMORIES.",
     "context": "about -> part_1 -> title",
     "labels": null,
     "max_length": null
@@ -394,7 +394,7 @@
   "press.part_5.buttons.more_about_ulifyi": {
     "identifier": "press.part_5.buttons.more_about_ulifyi",
     "source_string": "Mehr über Ulifyi erfahren.",
-    "translation": "Learn more about Ulifyi.",
+    "translation": "Learn More About Ulifyi.",
     "context": "press -> part_5 -> buttons -> more_about_ulifyi",
     "labels": null,
     "max_length": null
