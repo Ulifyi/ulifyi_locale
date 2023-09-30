@@ -73,7 +73,7 @@
   },
   "about.part_2.info_text": {
     "identifier": "about.part_2.info_text",
-    "source_string": "Ulifyi ist eine Social Media Plattform, die darauf ausgelegt ist, Erlebnisse mit anderen zu teilen. Ob nur unter Freunden oder der ganzen Welt. Mit Ulifyi und den Quests kannst du allen zeigen, was du erlebt hast. Ulifyi bietet dir viele Möglichkeiten, deinen Freunden oder der ganzen Welt zu zeigen, was du erlebt hast, egal ob es ein einfacher Post ist oder eine Quest an der du teilgenommen hast, mit Ulifyi ist alles möglich.",
+    "source_string": "Ulifyi ist eine Social-Media-Plattform, die darauf ausgelegt ist, Erlebnisse mit anderen zu teilen. Ob nur unter Freunden oder der ganzen Welt. Mit Ulifyi und den Quests kannst du allen zeigen, was du erlebt hast. Ulifyi bietet dir viele Möglichkeiten, deinen Freunden oder der ganzen Welt zu zeigen, was du erlebt hast, egal ob es ein einfacher Post ist oder eine Quest an der du teilgenommen hast, mit Ulifyi ist alles möglich.",
     "translation": "Ulifyi is a social media platform designed to share experiences with others, whether just with friends or the world. With Ulifyi and the Quests, you can show your friends or the world what you've experienced. Ulifyi offers you many ways to show your friends or the world what you've experienced, whether it's a simple post or a quest you've participated in; with Ulifyi, anything is possible.",
     "context": "about -> part_2 -> info_text",
     "labels": null,
@@ -97,7 +97,7 @@
   },
   "about.part_3.quest.info_text": {
     "identifier": "about.part_3.quest.info_text",
-    "source_string": "Unser Konzept von Quests, an dem wie bereits seit Anfang 2023 arbeiten, wird folgendermaßen funktionieren. Ulifyi stellt euch jede Woche erst einmal 3 Quests zur Verfügung, an denen ihr teilnehmen könnt. Diese Quests können von euch erfüllt werden, indem ihr ein Bild oder ein Video hochladet, welches die Quest erfüllt. Die Quests werden von uns ausgewählt und können von euch nicht selbst erstellt werden. Die Quests werden jede Woche erneuert und ihr könnt jede Woche neue Quests erfüllen. Ein Quest-Gewinner wird durch die Anzahl der Likes ermittelt, die das Bild oder Video erhält. Der Gewinner erhält einen Preis, meistens sind dies unsere HightPoints¹.",
+    "source_string": "Unser Konzept von Quests, an dem wir bereits seit Anfang 2023 arbeiten, wird folgendermaßen funktionieren. Ulifyi stellt euch jede Woche erst einmal 3 Quests zur Verfügung, an denen ihr teilnehmen könnt. Diese Quests können von euch erfüllt werden, indem ihr ein Bild oder ein Video hochladet, welches die Quest erfüllt. Die Quests werden von uns ausgewählt und können von euch nicht selbst erstellt werden. Die Quests werden jede Woche erneuert und ihr könnt jede Woche neue Quests erfüllen. Ein Quest-Gewinner wird durch die Anzahl der Likes ermittelt, die das Bild oder Video erhält. Der Gewinner erhält einen Preis, meistens sind dies unsere HightPoints¹.",
     "translation": "Our concept of Quests, which we have been working on since early 2023, works as follows: Ulifyi provides you with 3 quests each week that you can participate in. These quests can be completed by uploading a picture or a video that fulfills the quest. The quests are selected by us and cannot be created by you. The quests are renewed every week, and you can complete new quests every week. A quest winner is determined by the number of likes the picture or video receives. The winner receives a prize, usually our HightPoints¹.",
     "context": "about -> part_3 -> quest -> info_text",
     "labels": null,
@@ -345,7 +345,7 @@
   },
   "press.part_4.title": {
     "identifier": "press.part_4.title",
-    "source_string": "DIESE MENSCHEN HABEN ULIFYI ERST ZU ULIFYI GEMACHT.",
+    "source_string": "DIESE MENSCHEN HABEN ULIFYI ZU ULIFYI GEMACHT.",
     "translation": "THESE PEOPLE MADE ULIFYI INTO ULIFYI.",
     "context": "press -> part_4 -> title",
     "labels": null,
@@ -394,7 +394,7 @@
   "press.part_5.buttons.more_about_ulifyi": {
     "identifier": "press.part_5.buttons.more_about_ulifyi",
     "source_string": "Mehr über Ulifyi erfahren.",
-    "translation": "Learn More About Ulifyi.",
+    "translation": "Learn more about Ulifyi.",
     "context": "press -> part_5 -> buttons -> more_about_ulifyi",
     "labels": null,
     "max_length": null
