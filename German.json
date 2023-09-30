@@ -202,7 +202,7 @@
   "about.timeline.fourth.date": {
     "identifier": "about.timeline.fourth.date",
     "source_string": "Jetzt",
-    "translation": "Jetzt",
+    "translation": "Aktuell",
     "context": "about -> timeline -> fourth -> date",
     "labels": null,
     "max_length": null
